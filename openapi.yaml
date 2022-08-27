@@ -247,6 +247,7 @@ paths:
           name: sakeId
           schema:
             type: string
+          required: true
         - in: query
           name: limit
           schema:
